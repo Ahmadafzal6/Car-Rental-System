@@ -1,0 +1,103 @@
+Name: li
+CNIC: 567898765
+Car: 4
+Rental Duration: 8 days
+Payment Amount: 4000
+Total Rent: 4000
+-----------------------------
+Name: hmad
+CNIC: 678976789
+Car: 6
+Rental Duration: 6 days
+Payment Amount: 2500
+Total Rent: 2100
+-----------------------------
+Name: 
+CNIC: 4578965456
+Car: 7
+Rental Duration: 7 days
+Payment Amount: 1500
+Total Rent: 1260
+-----------------------------
+Name: aad
+CNIC: 5678545678
+Car: 6
+Rental Duration: 6 days
+Payment Amount: 2100
+Total Rent: 2100
+-----------------------------
+Name: Saad
+CNIC: 345678654
+Car: 7
+Rental Duration: 23 days
+Payment Amount: 4500
+Total Rent: 4140
+-----------------------------
+Name: Noman
+CNIC: 56789654567
+Car: 3
+Rental Duration: 5 days
+Payment Amount: 700
+Total Rent: 500
+-----------------------------
+Name: Saad khosa
+CNIC: 456789876
+Car: 6
+Rental Duration: 4 days
+Payment Amount: 1500
+Total Rent: 1400
+-----------------------------
+Name: muneeb
+CNIC: 456789
+Car: 10
+Rental Duration: 78 days
+Payment Amount: 20000
+Total Rent: 19500
+-----------------------------
+Name: Saad
+CNIC: 567890987
+Car: 6
+Rental Duration: 6 days
+Payment Amount: 2100
+Total Rent: 2100
+-----------------------------
+Name: Ahmad
+CNIC: 67898765
+Address: lahore
+Contact: 098876665555
+Car: 30
+Rental Duration: 21 days
+Payment Amount: 4200
+Total Rent: 4200
+Discount: 1050
+-----------------------------
+Name: qwty
+CNIC: 124567890
+Address: 13456789
+Contact: 123456789
+Car: 2
+Rental Duration: 12 days
+Payment Amount: 1900
+Total Rent: 1620
+Discount: 180
+-----------------------------
+Name: Ahmad
+CNIC: 3132-9876543-9
+Address: lahore
+Contact: 0345252562
+Car: 6
+Rental Duration: 6 days
+Payment Amount: 2100
+Total Rent: 2100
+Discount: 0
+-----------------------------
+Name: Ahmad
+CNIC: 56789876
+Address: lahore
+Contact: 567890567
+Car: 24
+Rental Duration: 3 days
+Payment Amount: 2000
+Total Rent: 1950
+Discount: 0
+-----------------------------
